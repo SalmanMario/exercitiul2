@@ -1,0 +1,31 @@
+h1,
+p,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+
+  border-radius: 50%;
+  border: 0.25rem solid brown;
+}
+
+body {
+  padding: 1rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body * {
+  margin-bottom: 2rem;
+}
+
+body p {
+  text-align: center;
+}
