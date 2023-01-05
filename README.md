@@ -1,3 +1,1 @@
 # exercitiul2
-
-salut:)
